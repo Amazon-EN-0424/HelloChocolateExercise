@@ -20,7 +20,7 @@ Requirements:
 
 
 
-3. Write unit tests for the `ChocolateRepository` class to ensure the correctness of the implemented functionality.
+3. Write unit tests for the `ChocolateRepository` class to demonstrate how to use the operations to create, update, delete and find of a chocolate..
 
 
 
