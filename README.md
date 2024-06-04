@@ -18,14 +18,14 @@ Requirements:
    - Updating chocolate product records in the database
    - Deleting chocolate product records from the database
 
-3. Implement a simple command-line interface (CLI) that allows users to interact with the chocolate factory inventory system. The CLI should provide options for:
+3. Implement a simple DataLoader that allows users to interact with the chocolate factory inventory system. The  should provide options for:
    - Adding a new chocolate product
    - Retrieving a chocolate product by ID
    - Retrieving all chocolate products
    - Updating a chocolate product
    - Deleting a chocolate product
 
-   The CLI should directly call the methods of the `ChocolateRepository` to perform these operations.
+
 
 4. Write unit tests for the `ChocolateRepository` class to ensure the correctness of the implemented functionality.
 
